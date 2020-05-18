@@ -58,5 +58,4 @@ public class CalculatorTest {
 
         assertEquals(0, result);
     }
-
 }
