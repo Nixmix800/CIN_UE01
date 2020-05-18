@@ -56,7 +56,7 @@ public class CalculatorTest {
     void testMultiWithNull() {
         var result = calculator.multiply(null);
 
-        assertEquals(0, result);
+        assertEquals(1, result);
     }
 
 }
